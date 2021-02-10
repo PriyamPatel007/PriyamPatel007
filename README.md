@@ -3,7 +3,13 @@
 -->
 ## Fancy seeing you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
-I am Priyam Patel, currently pursuing my bachelor's degree majoring in computer science from [Amity University Jharkhand](https://www.amity.edu/ranchi/). I am a tech enthusiast & an open-source advocate. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
+I am Priyam Patel, currently pursuing my bachelor's degree majoring in computer science from [Amity University Jharkhand](https://www.amity.edu/ranchi/). I am a tech enthusiast & an open-source advocate. I am always open to collaborating on projects and innovative/disruptive ideas.
+- 💻 I’m currently working on my Competitive Programming skills.
+- 💬 Brainstorm with me over tech, algorithms, career, and music 
+- 😄 Pronouns: Programmer
+- 📝 [Resume](https://drive.google.com/file/d/1jezE1aZbwnKoj6XU1gDIoI_HRj_QpYd2/view?usp=sharing)
+
+Find out more about me & feel free to connect with me here:
 
 [![Linkedin Badge](https://img.shields.io/badge/-PriyamPatel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/priyam-patel-0b3b2817b/)](https://www.linkedin.com/in/priyam-patel-0b3b2817b/)
 [![Medium Badge](https://img.shields.io/badge/-PriyamPatel-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@patelpriyam090)](https://medium.com/@patelpriyam090)
@@ -34,7 +40,4 @@ I am Priyam Patel, currently pursuing my bachelor's degree majoring in computer 
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=PriyamPatel007.PriyamPatel007)
 
-- 💻 I’m currently working on my Competitive Programming skills.
-- 💬 Brainstorm with me over tech, algorithms, career, and music 
-- 😄 Pronouns: Programmer
-- 📝 [Resume](https://drive.google.com/file/d/1jezE1aZbwnKoj6XU1gDIoI_HRj_QpYd2/view?usp=sharing)
+
