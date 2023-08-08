@@ -3,7 +3,7 @@
 -->
 ## Fancy seeing you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
-I am Priyam Patel, currently working as Associate Software Engineer at [Accenture](https://www.accenture.com/in-en). I am a tech enthusiast & an open-source advocate. I am always open to collaborating on projects and innovative/disruptive ideas.
+I am Priyam Patel, currently working as Software Engineer at [Accenture](https://www.accenture.com/in-en). I am a tech enthusiast & an open-source advocate. I am always open to collaborating on projects and innovative/disruptive ideas.
 - 💻 I’m currently working on my Competitive Programming skills.
 - 💬 Brainstorm with me over tech, algorithms, career, and music 
 - 😄 Pronouns: Programmer
